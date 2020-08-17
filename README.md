@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hola, soy Oriana Reina 👋
+
+![Oriana's github stats](https://github-readme-stats.vercel.app/api?username=oriananohemi&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Soy desarrolladora frontend, estudiante de Laboratoria**
 
 Here are some ideas to get you started:
 
