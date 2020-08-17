@@ -18,7 +18,7 @@
 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/oriananohemi/ )
-[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/oriananohemi22) 
+[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/oriananohemi_) 
 [<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/oriananohemi22)
 
 <!--
