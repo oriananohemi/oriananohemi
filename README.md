@@ -1,13 +1,12 @@
-<div width="200" align="center">
-  <img src="./img/23bdbb2377322553edd9df0fd4b5d17b.gif">
-</div>
-
 ### Hola, mi nombre es Oriana. 🤓🙋🏽‍♀️
 
-**Soy Desarrolladora Frontend, estudiante de Laboratoria**<img src="https://img.icons8.com/color/48/000000/linux-client.png"/>
+  <img width="150" src="./img/23bdbb2377322553edd9df0fd4b5d17b.gif">
 
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
+**Soy Desarrolladora Frontend, estudiante de Laboratoria.**<img src="https://img.icons8.com/clouds/70/000000/linux-client.png"/>
+
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
 
 
 
