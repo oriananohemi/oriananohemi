@@ -17,7 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width=300 src="./img/WhatsApp Image 2020-08-30 at 18.37.07.jpeg">
+<img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg">
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/oriananohemi/ )
 [<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/oriananohemi_) 
