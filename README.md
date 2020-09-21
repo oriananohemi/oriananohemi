@@ -13,11 +13,7 @@
 
 <img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg">
 
-Perfil en Linkedin[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/oriananohemi/ )
-
-Proyectos en Codepen[<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/oriananohemi22)
-
-<img width=300 src="https://cdn78.picsart.com/199683351001202.gif">
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/oriananohemi/ )[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/oriananohemi_)[<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/oriananohemi22)
 
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
