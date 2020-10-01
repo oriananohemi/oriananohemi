@@ -10,16 +10,18 @@
 ![Oriana's github stats](https://github-readme-stats.vercel.app/api?username=oriananohemi&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias
-
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img width=48 src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
 
 
 ## Contacto
 
-<img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg">
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>oriana.nohemi22@gmail.com](oriana.nohemi22@gmail.com)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>Oriana Nohemi Reina Marcano](https://www.linkedin.com/in/oriananohemi/)
+<img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg"/>
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/><a href="https://www.linkedin.com/in/oriananohemi/">Oriana Nohemi Reina Marcano</a>
+
+<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/><a>oriana.nohemi22@gmail.com</a>
+
+
+
 
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
