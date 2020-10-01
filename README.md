@@ -18,9 +18,14 @@
 ## Contacto
 
 <img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg">
-
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](oriana.nohemi22@gmail.com): oriana.nohemi22@gmail.com
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/oriananohemi/ ): Oriana Nohemi Reina Marcano
+<ul>
+  <li>
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/> [oriana.nohemi22@gmail.com](oriana.nohemi22@gmail.com)
+  </li>
+   <li>
+     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> [Oriana Nohemi Reina Marcano](https://www.linkedin.com/in/oriananohemi/)
+  </li>
+</ul>
 
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
