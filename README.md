@@ -24,6 +24,8 @@
 
 <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/><a>oriana.nohemi22@gmail.com</a>
 
+<img width=60px src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
+
 
 
 
