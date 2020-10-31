@@ -3,7 +3,7 @@
 <img width="150" src="https://github.com/oriananohemi/oriananohemi/blob/master/img/23bdbb2377322553edd9df0fd4b5d17b.gif">
 
 
-**Frontend Developer aprendiendo MEAN stack.** <img src="https://img.icons8.com/clouds/70/000000/linux-client.png"/>.
+**Soy frontend developer y actualmente estoy aprendiendo MEAN stack.** <img src="https://img.icons8.com/clouds/70/000000/linux-client.png"/>.
 
 **Creo en el poder de la paciencia y la persistencia para encontrar la mejor solución en un ambiente colaborativo de desarrollo.**
 
