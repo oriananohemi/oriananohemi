@@ -11,6 +11,8 @@
 
 ### Informacion de contacto
 
+<img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg"/>
+
 <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/><a href="https://www.linkedin.com/in/oriananohemi/">Oriana Nohemi Reina Marcano</a>
 
 <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/><a>oriana.nohemi22@gmail.com</a>
@@ -24,8 +26,6 @@
 
 ![Oriana's github stats](https://github-readme-stats.vercel.app/api?username=oriananohemi&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<img width=300 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg"/>
-
 
 
 
