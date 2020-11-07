@@ -15,8 +15,6 @@
 
 ## Portafolio
 
-<img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
-
 <img width=60 src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
 
 ## Informacion de contacto
@@ -29,6 +27,9 @@
 
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
+
 
 ![Oriana's github stats](https://github-readme-stats.vercel.app/api?username=oriananohemi&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriananohemi&layout=compact&theme=tokyonight)](https://github.com/oriananohemi/github-readme-stats)
