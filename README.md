@@ -17,6 +17,8 @@
 
 <img width=60 src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
 
+<img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
+
 ## Informacion de contacto
 
 <img width=200 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg"/>
