@@ -3,7 +3,7 @@
 <img width="150" src="https://github.com/oriananohemi/oriananohemi/blob/master/img/23bdbb2377322553edd9df0fd4b5d17b.gif">
 
 
-**Soy fullStack Developer MEAN stack. Actualmente estoy aprendiendo python y AWS services** 
+**Soy fullStack Developer MEAN stack. Actualmente estoy aprendiendo python y explorando los servicios de AWS** 
 
 ### Tecnologías 
 
