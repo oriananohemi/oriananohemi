@@ -3,13 +3,13 @@
 <img width="150" src="https://github.com/oriananohemi/oriananohemi/blob/master/img/23bdbb2377322553edd9df0fd4b5d17b.gif">
 
 
-**Soy frontend developer y actualmente estoy aprendiendo MEAN stack.** 
+**Soy fullStack Developer MEAN stack. Actualmente estoy aprendiendo python y AWS services  ** 
 
 ### Tecnologías 
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img width=48 src="https://digitalagerevival.com/wp-content/uploads/2019/10/48a6248802dcdea7cb937be315036e41-1.png"><img width=48 src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img width=48 src="https://digitalagerevival.com/wp-content/uploads/2019/10/48a6248802dcdea7cb937be315036e41-1.png"><img width=48 src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
 
-### Conoce mas de mis trabajos.
+### Conoce más de mis trabajos.
 
 <img width=40 src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
 
