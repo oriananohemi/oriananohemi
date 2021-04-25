@@ -13,13 +13,13 @@
 
 <img width=40 src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
 
+<img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
+
 <!--
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <img width=200 src="https://github.com/oriananohemi/oriananohemi/blob/master/img/WhatsApp%20Image%202020-08-30%20at%2018.37.07.jpeg"/>
-
-<img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriananohemi&layout=compact&theme=tokyonight)](https://github.com/oriananohemi/github-readme-stats)
