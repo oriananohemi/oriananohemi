@@ -3,19 +3,21 @@
 <img width="150" src="https://github.com/oriananohemi/oriananohemi/blob/master/img/23bdbb2377322553edd9df0fd4b5d17b.gif">
 
 
-**Soy frontend developer. Desarrollo sitios web con Angular o React, utilizando CSS o SCSS. Tengo experiencia con Node Js, Python** 
+**Soy frontend developer, desarrollo sitios web con MERN stack y tengo experiencia con Angular.** 
 
 ### Tecnologías 
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/firebase.png"/><img width=48 src="https://digitalagerevival.com/wp-content/uploads/2019/10/48a6248802dcdea7cb937be315036e41-1.png"><img width=48 src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/golang.png"/><img width=48 src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/5894313931548218185-512.png">
 
 ### Conoce más de mis trabajos.
 
-<img width=40 src="https://img.icons8.com/plasticine/100/000000/work.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
+<img  width=40 src="https://img.icons8.com/external-nawicon-glyph-nawicon/64/000000/external-portfolio-seo-and-marketing-nawicon-glyph-nawicon.png"/><a href="https://oriananohemi.github.io/orianareina/">Portafolio</a>
 
 <img src="https://img.icons8.com/material/48/000000/codepen.png"/><a href="https://codepen.io/oriananohemi22">Codepen</a>
 
 <!--
+**En backend he tenido la oportunidad de trabajar con Java y Golang (un poco raro)<img src="https://img.icons8.com/color/48/000000/lol--v1.png"/>**
+
 **oriananohemi/oriananohemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
